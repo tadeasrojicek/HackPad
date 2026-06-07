@@ -1,8 +1,7 @@
 # HackPad - Custom 3-Key Macropad
 
 ## Description
-A custom 3-key macropad with 6 RGB LEDs built for Hack Club Hackpad.
-Tried to make it work ,hopefully its going to work. 
+I tried to make an working Hackpad. It is my first time doing something like this, so hopeffuly no error s;)
 
 ## Bill of Materials
 | Part | Quantity |

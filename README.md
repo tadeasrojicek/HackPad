@@ -2,6 +2,7 @@
 
 ## Description
 A custom 3-key macropad with 6 RGB LEDs built for Hack Club Hackpad.
+Tried to make it work ,hopefully its going to work. 
 
 ## Bill of Materials
 | Part | Quantity |
@@ -9,7 +10,11 @@ A custom 3-key macropad with 6 RGB LEDs built for Hack Club Hackpad.
 | Seeed XIAO RP2040 | 1 |
 | MX switches | 3 |
 | SK6812 MINI-E RGB LEDs | 6 |
-| 1N4148 diodes | 3 |
 
 ## Firmware
 KMK on CircuitPython - 3 keys with RGB LEDs
+
+## Screenshots
+<img width="1274" height="616" alt="image" src="https://github.com/user-attachments/assets/103e1d81-4c6b-4c34-bcb5-3ee8bd90e532" />
+<img width="809" height="763" alt="image" src="https://github.com/user-attachments/assets/fdfee231-be49-4baa-8bd1-62ccfdf99897" />
+<img width="1121" height="559" alt="image" src="https://github.com/user-attachments/assets/ca852a48-14ac-4e78-aad5-364d648b0adc" />
